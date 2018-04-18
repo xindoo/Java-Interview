@@ -7,7 +7,7 @@ Here are some questions that I have met in interview, I hope it will help you.
 ### 求一个字符串里长度为l且字典序最小的子序列 
 ### 先升后降序列里求最大值    
 ### 找出数组里出现次数超过一半的数 
-### 二分查找(src/algorithm/BinarySearch.java)
+### [二分查找](src/algorithm/BinarySearch.java)
 ### 更多可参考leetcode
 [我的leetcode刷题记录(200+题)](https://github.com/xindoo/leetcode)
 
