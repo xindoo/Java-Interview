@@ -26,6 +26,7 @@ Here are some questions that I have met in interview, I hope it will help you.
 ## 中间件(Middleware)
 ### dubbo
 ### SpringCloud
+### RocketMetaq
 
 ## 分布式系统(Distributed system)
 ### storm
@@ -45,6 +46,10 @@ Here are some questions that I have met in interview, I hope it will help you.
 ### HashMap
 ### 基本类型和封装类的区别（int和Integer）
 ### 匿名内部类
+### GC
+#### cms
+#### G1
+
 
 ## 数据库
 ### mysql索引原理
