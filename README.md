@@ -6,7 +6,7 @@ Here are some questions that I have met in interview, I hope it will help you.
 ### 二叉树的遍历(递归和非递归)
 ### 求一个字符串里长度为l且字典序最小的子序列 
 ### 先升后降序列里求最大值    
-### 找出数组里出现次数超过一半的数 
+### [找出数组里出现次数超过一半的数](src/algorithm/OccuredHalfNumber.java) 
 ### [二分查找](src/algorithm/BinarySearch.java) 
 ### 43亿有序数字，找出其中一个出现多次的
 ### 更多算法题可参考leetcode
@@ -46,6 +46,7 @@ Here are some questions that I have met in interview, I hope it will help you.
 ### HashMap
 ### 基本类型和封装类的区别（int和Integer）
 ### 匿名内部类
+
 ### GC
 #### cms
 #### G1
