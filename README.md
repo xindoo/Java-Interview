@@ -35,7 +35,7 @@ Here are some questions that I have met in interview, I hope it will help you.
 #### hbase 读写优化
 ### hadoop
 #### mr基本原理
-#### 1T字符串排序如何实现（采样）
+#### [100T字符串排序如何实现](doc/100t_data_sort.md)
 ### redis
 #### redis的基本数据类型
 ### [uv统计](doc/uv_statistic.md)  
