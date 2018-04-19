@@ -3,7 +3,7 @@ import java.util.concurrent.LinkedBlockingDeque;
 
 public class ProducerAndConsumer {
     private final int MAX_LEN = 10;
-    private Queue<Integer> queue = new LinkedBlockingDeque<Integer>();
+    private Queue<Integer> queue = new LinkedList<Integer>();
     class Producer extends Thread {
         @Override
         public void run() {

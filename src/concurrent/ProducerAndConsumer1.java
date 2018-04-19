@@ -1,5 +1,5 @@
+import java.util.LinkedList;
 import java.util.Queue;
-import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class ProducerAndConsumer1 {
     private final int MAX_LEN = 10;
-    private Queue<Integer> queue = new LinkedBlockingQueue<Integer>();
+    private Queue<Integer> queue = new LinkedList<Integer>();
     private final Lock lock = new ReentrantLock();
     private final Condition condition = lock.newCondition();
     class Producer extends Thread {
