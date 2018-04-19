@@ -1,5 +1,5 @@
+import java.util.LinkedList;
 import java.util.Queue;
-import java.util.concurrent.LinkedBlockingDeque;
 
 public class ProducerAndConsumer {
     private final int MAX_LEN = 10;

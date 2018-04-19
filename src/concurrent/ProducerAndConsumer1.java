@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * version 1 doesn't use synchronized to improve performance
  */
-public class ProducerAndConsumer1 {
+public class ProducerAndConsumer {
     private final int MAX_LEN = 10;
     private Queue<Integer> queue = new LinkedList<Integer>();
     private final Lock lock = new ReentrantLock();
