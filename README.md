@@ -55,9 +55,13 @@ Here are some questions that I have met in interview, I hope it will help you.
 ## 数据库
 ### mysql索引原理
 ### mysql和nosql的区别
+### 数据库设计（比如图书馆管理系统）
 
 ## Spring
 ### springboot
 ### AOP
 ### 事务
+
+## 设计模式
+
 
