@@ -18,9 +18,9 @@ Here are some questions that I have met in interview, I hope it will help you.
 #### [生产者消费者](src/concurrent/ProducerAndConsumer.java)
 ### 线程池
 ### synchronized
-### 锁(Lock)
+### 锁(Lock) 
 #### 读写锁
-#### 重入锁
+#### 重入锁 
 ### ConcurrentHashMap
 
 ## 中间件(Middleware)
@@ -30,8 +30,8 @@ Here are some questions that I have met in interview, I hope it will help you.
 
 ## 分布式系统(Distributed system)
 ### storm
-#### storm acker
-### hbase
+#### [storm acker](https://www.cnblogs.com/dongxiao-yang/p/6142356.html)
+### [hbase](https://research.google.com/archive/bigtable.html)
 #### hbase 读写优化
 ### hadoop
 #### mr基本原理
@@ -45,7 +45,7 @@ Here are some questions that I have met in interview, I hope it will help you.
 ## Java
 ### HashMap
 ### 基本类型和封装类的区别（int和Integer）
-### 匿名内部类
+### 匿名内部类 
 
 ### GC
 #### cms
