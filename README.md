@@ -34,7 +34,7 @@ Here are some questions that I have met in interview, I hope it will help you.
 ### [hbase](https://research.google.com/archive/bigtable.html)
 #### hbase 读写优化
 ### hadoop
-#### mr基本原理
+#### [mr基本原理](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)
 #### [100T字符串排序如何实现](doc/100t_data_sort.md)
 ### redis
 #### redis的基本数据类型
@@ -43,8 +43,8 @@ Here are some questions that I have met in interview, I hope it will help you.
 
 
 ## Java
-### HashMap
-### 基本类型和封装类的区别（int和Integer）
+### [HashMap](http://www.importnew.com/7099.html)
+### 基本类型和封装类的区别（例int和Integer）
 ### 匿名内部类 
 
 ### GC
@@ -53,8 +53,8 @@ Here are some questions that I have met in interview, I hope it will help you.
 
 
 ## 数据库
-### mysql索引原理
-### mysql和nosql的区别
+### mysql索引原理（[B+树](https://www.cnblogs.com/vincently/p/4526560.html)）
+### [mysql和nosql的区别](https://blog.csdn.net/xlgen157387/article/details/47908797)
 ### 数据库设计（比如图书馆管理系统）
 
 ## Spring
